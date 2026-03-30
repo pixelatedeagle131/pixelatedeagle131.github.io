@@ -1,0 +1,19 @@
+{
+  "name": "Cedar",
+  "version": "0.1",
+  "description": "A website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Unkown",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
