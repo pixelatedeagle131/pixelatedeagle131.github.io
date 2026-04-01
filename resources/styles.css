@@ -277,16 +277,6 @@ p {
   padding: 15px;
 }
 
-.source {
-  font-size: 11px;
-  text-align: right;
-}
-
-#factsHeader {
-  font-size: 24px;
-  color: darkblue;
-}
-
 .alignLeft {
   text-align: left;
 }
@@ -299,6 +289,14 @@ a:active {
   color: red;
 }
 
-.planeSRC {
-  text-align: left;
+button {
+  background-color: rgb(215, 177, 128);
+  border: 2px solid rgb(197, 159, 110);
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: rgb(230, 192, 143);
+  cursor: pointer
 }
